@@ -4,9 +4,7 @@ Nous disposons d'une multitude de composants de l'univers arduino (5V) ou de l'�
 nous n'avons pas cherché le montage d'un projet complet et complexe, nous prenons un composant élémentaire pour comprendre son fonctionnement, avec le moins de développement et de soudure possible ! Un automate va prendre les données d'un capteur pour afficher ses sorties, ou donner des ordres pour actionneur : moteur, servo, lampe, ...
 La boite à outils OTOMAT s'appelle pour nos amis anglo-saxons TOMATO ( TOols for MAthematicians in Orsay)
 
-archives
-
-[Sondage](https://github.com/arnaudrco/visio/blob/main/Presentation2021%20O-tomat.pdf) +[visio n°1](https://github.com/arnaudrco/visio/blob/main/Presentation2021-03_visio_1.pdf)+[visio n°2](https://github.com/arnaudrco/visio/blob/main/Presentation2021-04_visio_2.pdf)+[visio n°3](https://github.com/arnaudrco/visio/blob/main/Presentation2021-05_visio_3.pdf)
+archives 2021:[Sondage](https://github.com/arnaudrco/visio/blob/main/Presentation2021%20O-tomat.pdf) +[visio n°1](https://github.com/arnaudrco/visio/blob/main/Presentation2021-03_visio_1.pdf)+[visio n°2](https://github.com/arnaudrco/visio/blob/main/Presentation2021-04_visio_2.pdf)+[visio n°3](https://github.com/arnaudrco/visio/blob/main/Presentation2021-05_visio_3.pdf)
 
 
 
