@@ -1,7 +1,8 @@
 # visio
 
-
 anumby : [developpement-voiture](https://github.com/anumby-source/developpement-voiture/wiki) [jouets](https://github.com/anumby-source/jouets/wiki) [raspberry-pico](https://github.com/anumby-source/raspberry-pico/wiki) arnaudrco : [exemples-de-montages](https://github.com/arnaudrco/exemples/wiki) [visio](https://github.com/arnaudrco/visio/wiki) [festisol](https://github.com/arnaudrco/festisol/wiki) [CROUS-micro-python](https://github.com/arnaudrco/CROUS-micro-python/wiki) [piano](https://github.com/arnaudrco/piano-pour-adulte-debutant/wiki) Ateliers Numériques [Repair Café d'Orsay](https://www.repaircafe-orsay.org/category/blog/ateliers-numeriques-blog/) 
+
+https://user-images.githubusercontent.com/90700891/159067809-b8b96014-81e5-4074-85a7-a28ca8abfee0.mp4
 
 Les ateliers numériques « O-Tomat » ont été créés par des bénévoles de l’association Repair Café d’Orsay pendant le confinement : nous avons des pannes de capteurs ou de logiciel : un aspirateur qui s'arrête pour un capteur de dépression déréglé, une sécurité bloquant un micro-onde ou une électronique tombée en panne mystérieusement. Une boite à outils matérielle a été créée avec une série amusante de montages faciles à faire et à partager, très pédagogique pour comprendre les composants. 5 niveaux sont disponibles depuis le module électronique jusqu’au système complet. 
 Nous disposons d'une multitude de composants de l'univers arduino (5V) ou de l'écosystème développé autour des smartphones (3.3V), souvent compatibles les uns et les autres grâce à des micro-contrôleurs que nous appellerons plus simplement des automates. Dans le monde arduino, l'automate après une phase d'initialisation ( setup ) exécute une boucle à l'infini (loop) 
